@@ -1,7 +1,7 @@
-<h1 align="center">Hi  There👋</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<h1 align="center">Hi  There 👋</h1>
+<h3 align="left">I am a passionate frontend developer</h3>
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
   <p align = "left">
    I am a recent graduate from the University of Texas at Dallas with a strong passion for software development. I enjoy creating APIs, websites, and web applications that enable meaningful user interactions and bring my ideas to life. This process of building and connecting through technology is what inspires me the
